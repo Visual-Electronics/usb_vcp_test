@@ -1,6 +1,5 @@
 # usb_vcp_test
 USB Virtual Com Port example for VE-EP4CE10E
-Первый проект для VE-EP4CE10E. Часть 1.
 
 https://visuale.ru/blog/pervyj-proekt-dlya-ve-ep4ce10e-chast-1
 
